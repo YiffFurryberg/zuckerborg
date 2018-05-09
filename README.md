@@ -1,2 +1,2 @@
 # zuckerborg
-Zuckerborg discord bot.
+Zuckerborg discord bot
