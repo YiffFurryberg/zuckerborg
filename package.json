@@ -1,0 +1,26 @@
+{
+  "name": "zuckerborg-final",
+  "version": "2.0.0",
+  "description": "A Mark Zuckerberg themed Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiffFurryberg/zuckerborg.git"
+  },
+  "author": "Yiff Furryberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiffFurryberg/zuckerborg/issues"
+  },
+  "homepage": "https://github.com/YiffFurryberg/zuckerborg#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "image-downloader": "^3.4.1",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.17"
+  }
+}
